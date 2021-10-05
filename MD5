@@ -1,5 +1,6 @@
-425193c23b562a1f25bd4624d96506fe *DESCRIPTION
+79b3bfccc937706163d5e877fb983827 *DESCRIPTION
 47caee10539292aab64137541249a77b *NAMESPACE
+755c12617e0e049361f175ee1ada0138 *NEWS.md
 9c3685137a2d347317f3e7fcfe9aae65 *R/R2.R
 6ad9feb80f34e3d89bb17baa92645ed1 *R/TriDimRegression-package.R
 179b13cd6c18a06f970e442f61d7821d *R/bi_transformation_matrices.R
@@ -24,8 +25,8 @@ e69d43a0ebe3ee17bd7751a6ce8eecd9 *R/tri_transformation_matrices.R
 86cb534e7e89c76dc0336adcaa2019fc *R/variable_summary.R
 60744f581f7c250e35f492a9b9bbc090 *R/waic.R
 0cf72863092dfb8a42f3d24c8f30d46c *README.md
-31d64e89a15486f2a684632bd88bc686 *build/partial.rdb
-fb963f49018e97a24eaf6b0797f385ac *build/vignette.rds
+e72a76cfd704d33d3e55bc737a4fe55f *build/partial.rdb
+8ef394581e853a06f5ad7b52952c3212 *build/vignette.rds
 1cc60bdd8610449d30184e0bb374bf46 *configure
 363506993327ae3b7de4216fa3a1aa2b *configure.win
 ff9c4b387ae61812643dd3ca2d1ef0d0 *data/CarbonExample1Data.rda
@@ -45,13 +46,13 @@ af21a24fba6533a7119ab2e6bc286b9f *data/FriedmanKohlerData2.rda
 28b28a436743fe325222783aec19a2e5 *data/NakayaData.rda
 689f967ea05319a9c0073d9565874434 *inst/doc/calibration.R
 058a16c95cdf6dd09228f6426cb584d1 *inst/doc/calibration.Rmd
-aa15dd0af6c50afb47ae7fdd17601107 *inst/doc/calibration.html
+77af6ae2d921dc6b559333147e8bc6bc *inst/doc/calibration.html
 3b5fd8348a875ef045201ed675ce9b1b *inst/doc/comparing_faces.R
 f817bf0e5e66d4260e8bb802ebfe827c *inst/doc/comparing_faces.Rmd
-62186a474ec207b2ffc7b19555395e4f *inst/doc/comparing_faces.html
+6260ec1765a3bbe5835327d30f59843f *inst/doc/comparing_faces.html
 ea8eab93de05207476b4c5f91642b478 *inst/doc/transformation_matrices.R
-1aa1103b033ef086e5a40033884d350e *inst/doc/transformation_matrices.Rmd
-680c5874d13b9f49df034a45c7be391b *inst/doc/transformation_matrices.html
+1061730781ea2b0d951ad61ad0637d6a *inst/doc/transformation_matrices.Rmd
+9b415cd7a509b47f6f89c0f1747e66c8 *inst/doc/transformation_matrices.html
 855c064dbf8deaff96c8dc8a87169109 *inst/include/stan_meta_header.hpp
 b8e13e70c9253385b09d8cf226beaabf *inst/stan/include/license.stan
 b5056e8f480791ab430c69f044be8fb4 *inst/stan/tridim_transformation.stan
@@ -102,7 +103,7 @@ d2585635fca01703afe8f5b276b97f8f *man/tridim_transformation-class.Rd
 7897405929ce15a1f8de0bdea6f28d91 *man/waic.tridim_transformation.Rd
 ec1f7adc46f14d6b1c5481244554415e *src/Makevars
 cebeb8bdd5adb558f381741990eb1085 *src/Makevars.win
-09728610048ed103507d5a3694d85183 *src/RcppExports.cpp
+1991c904f980ea237afde72d6c4c1d37 *src/RcppExports.cpp
 06c7091ed00ed632418c0db8b42577e1 *src/stanExports_tridim_transformation.cc
 79e08a0488e6dc066075069f00e1c706 *src/stanExports_tridim_transformation.h
 35c6a49c955bc1410941a8ed53976493 *tests/testthat.R
@@ -114,4 +115,4 @@ a6b7cf309c01cc5c13b05563adb9dcd8 *tests/testthat/test-check_variables.R
 fd833316fd4ba2d30f6ecee64d11e6b1 *tests/testthat/test-variable_summary.R
 058a16c95cdf6dd09228f6426cb584d1 *vignettes/calibration.Rmd
 f817bf0e5e66d4260e8bb802ebfe827c *vignettes/comparing_faces.Rmd
-1aa1103b033ef086e5a40033884d350e *vignettes/transformation_matrices.Rmd
+1061730781ea2b0d951ad61ad0637d6a *vignettes/transformation_matrices.Rmd

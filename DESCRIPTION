@@ -1,6 +1,6 @@
 Package: TriDimRegression
 Title: Bayesian Statistics for 2D/3D Transformations
-Version: 1.0.0.0
+Version: 1.0.1
 Authors@R: c(
   person("Alexander (Sasha)", "Pastukhov", role = c("cre", "ctb"), email ="pastukhov.alexander@gmail.com"),
   person("Claus-Christian", "Carbon", role = c("aut"), email ="ccc@experimental-psychology.com"))
@@ -27,9 +27,9 @@ LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
 SystemRequirements: GNU make
 Suggests: testthat, knitr, rmarkdown, ggplot2
 NeedsCompilation: yes
-Packaged: 2021-05-03 16:30:38 UTC; sasha
+Packaged: 2021-10-05 08:06:16 UTC; sasha
 Author: Alexander (Sasha) Pastukhov [cre, ctb],
   Claus-Christian Carbon [aut]
 Maintainer: Alexander (Sasha) Pastukhov <pastukhov.alexander@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-05-04 07:00:16 UTC
+Date/Publication: 2021-10-05 08:30:08 UTC
