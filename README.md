@@ -1,13 +1,26 @@
 # TriDimRegression
 
+<!-- badges: start -->
+[![DOI](https://zenodo.org/badge/139134694.svg)](https://zenodo.org/badge/latestdoi/139134694)
+[![CRAN status](https://www.r-pkg.org/badges/version/TriDimRegression)](https://cran.r-project.org/package=TriDimRegression)
+ <!-- badges: end -->
+ 
 Package to calculate the bidimensional and tridimensional regression between two 2D/3D configurations.
 
-## Installation from Github
-```
-library("devtools"); install_github("alexander-pastukhov/tridim-regression", dependencies=TRUE)
+## Installation
+From CRAN
+
+```{r}
+install.packages("TriDimRegression")
 ```
 
-If you want vignettes, us 
+From Github
+```
+library("devtools");
+install_github("alexander-pastukhov/tridim-regression", dependencies=TRUE)
+```
+
+If you want vignettes, use
 ```
 devtools::install_github("alexander-pastukhov/tridim-regression",
                          dependencies=TRUE,
@@ -43,4 +56,4 @@ Once the data is fitted, you can extract the transformation coefficients via `co
 
 ## License
 
-All code is licensed under the [GPL 3.0](https://opensource.org/licenses/GPL-3.0) license.
+All code is licensed under the [GPL 3.0](https://opensource.org/license/gpl-3-0/) license.

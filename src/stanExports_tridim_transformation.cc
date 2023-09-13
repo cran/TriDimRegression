@@ -7,7 +7,7 @@ using namespace Rcpp ;
 RCPP_MODULE(stan_fit4tridim_transformation_mod) {
 
 
-    class_<rstan::stan_fit<stan_model, boost::random::ecuyer1988> >("model_tridim_transformation")
+    class_<rstan::stan_fit<stan_model, boost::random::ecuyer1988> >("rstantools_model_tridim_transformation")
 
     .constructor<SEXP,SEXP,SEXP>()
 
